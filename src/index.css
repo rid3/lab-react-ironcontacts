@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.contact-card {
+  margin: 10px;
+  padding: 20px;
+  margin-top: 20px;
+ 
+}
